@@ -1,9 +1,9 @@
-# CackleBox :D
-Welcome to CackleBox! A place where fun and friends meet for all ages!
-# News
-Site is currently going under changes. Expect lag or 'Error 404.'
-# DMCA (Copyright)
-MIT License
+<h1>CackleBox :D</h1>
+<p1> Welcome to CackleBox! A place where fun and friends meet for all ages!</p1>
+<h2>News</h2>
+<p1>Site is currently going under changes. Expect lag or 'Error 404.'</p1>
+<h3>DMCA (Copyright)</h3>
+<p1>MIT License
 
 Copyright (c) 2017 MagicTwists
 
@@ -23,5 +23,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.</p1>
 
